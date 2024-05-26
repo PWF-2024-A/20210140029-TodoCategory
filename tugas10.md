@@ -1,29 +1,17 @@
-# Tugas 11
+# Tugas 10
 
-## 1. Login
+## 1. Browser Register
 
-![Login](screenshot/tugas11/1.png)
+![Alt text](screenshot/tugas10/1.png)
 
-## 2. Profile
+## 2. Browser Verify Email
 
-![Profile](screenshot/tugas11/2.png)
+![Alt text](screenshot/tugas10/2.png)
 
-## 3. Todo Index
+## 3. Browser Mailtrap
 
-![Todo Index](screenshot/tugas11/3.png)
+![Alt text](screenshot/tugas10/3.png)
 
-## 4. Todo Show
+## 4. Browser Dashboard
 
-![Todo Show](screenshot/tugas11/4.png)
-
-## 5. Todo Show Forbidden
-
-![Todo Show Forbidden](screenshot/tugas11/5.png)
-
-## 6. Todo Search
-
-![Todo Search](screenshot/tugas11/6.png)
-
-## 7. Logout
-
-![Logout](screenshot/tugas11/7.png)
+![Alt text](screenshot/tugas10/4.png)
